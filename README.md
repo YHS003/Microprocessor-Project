@@ -54,5 +54,3 @@ Result: 3125
 - `calculator.asm`: Main assembly source file
 - `README.md`: This documentation file
 - (Optional) `Makefile`: Build automation
-
-Developed with ❤️ for educational purposes by [Your Name/Team Name]
